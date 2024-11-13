@@ -1,0 +1,3 @@
+[submodule "User_Mng_BE"]
+	path = User_Mng_BE
+	url = ./User_Mng_BE
