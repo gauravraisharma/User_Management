@@ -22,7 +22,7 @@ This is a **User Management System** designed for secure and efficient handling 
 ### Backend
 - **.NET 8** for building scalable backend services
 - **Entity Framework Core** for managing database interactions
-- **JWT (JSON Web Tokens)** for secure token-based user authentication
+- **JWT (JSON Web Tokens)** for secure token-based user authentication.
 
 ## Project Structure
 
